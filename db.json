@@ -1,0 +1,52 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão Líquido",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Sabão em Pó",
+      "categoria": 1
+    },
+    {
+      "produto": "Amaciante",
+      "categoria": "1",
+      "id": 4
+    },
+    {
+      "id": 6,
+      "produto": "Vassoura",
+      "categoria": "3"
+    },
+    {
+      "produto": "Panetone",
+      "categoria": "2",
+      "id": 7
+    },
+    {
+      "produto": "Água mineral sem gás",
+      "categoria": "4",
+      "id": 8
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Utilidades"
+    },
+    {
+      "categoria": "Bebidas",
+      "id": 4
+    }
+  ]
+}
